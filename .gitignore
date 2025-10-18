@@ -69,3 +69,7 @@ local_settings.py
 # hellogithub
 *.db
 content*.md
+
+# password manager
+script/password_manager/secret.key
+script/password_manager/passwords.db
